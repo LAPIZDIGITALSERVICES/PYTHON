@@ -1,0 +1,5 @@
+A function that takes a string and returns a rot13 version of that string with every other word reversed. 
+If the function is f, f(f(x)) should return x and it will take non-alphanumeric characters into account.
+
+Example Input: “Hello world!”
+Example Output:”byyrU jbeyq!”
