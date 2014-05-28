@@ -1,0 +1,21 @@
+Set Combination
+
+we’re given several lists of words. 
+Each list will contain one or more words.
+The total number of lists may vary; there will be at least one list.
+Print each combination only once.
+A function that accepts the word lists as a parameter, and either prints out or returns the word combinations. 
+
+For example:
+
+Input:
+1.	apple, banana, pear
+2.	car, truck
+3.	zambia, malawi, kenya
+
+Output:
+•	apple car zambia
+•	apple truck kenya
+•	pear car malawi
+•	pear car kenya
+…
