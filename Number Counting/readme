@@ -1,0 +1,3 @@
+A function that takes in a number N and counts
+how many numbers between 1 and N (inclusive) 
+does not contain any digits which are ’7′.
