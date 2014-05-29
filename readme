@@ -1,4 +1,21 @@
 PYTHON
 ======
 
-LAPIZ DIGITAL SERVICES PYTHON SAMPLES..!
+How do I run a Python program under Windows?
+
+Python does not pre-installed with Windows. 
+It needs to be manually downloaded and installed. 
+You can get Python from the following: http://python.org/download/
+
+Simply download the Python installer and follow the instructions. 
+Make sure to remember the directory you used to install Python. 
+You may need this information at the top of each of your Python scripts depending on 
+what type of environment you are using to execute the scripts.
+
+
+Steps to execute scripts.
+
+1. Launch command prompt from windows.
+2. Run your code and you'll be put into the Python debugger, where you can use sEnter to step through the code.
+
+
