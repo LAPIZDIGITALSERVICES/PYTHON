@@ -1,21 +1,36 @@
 PYTHON
 ======
 
-How do I run a Python program under Windows?
+Part 1 of 5: Installing Python (Windows)
 
-Python does not pre-installed with Windows. 
-It needs to be manually downloaded and installed. 
-You can get Python from the following: http://python.org/download/
+1 Download Python for Windows systems. 
+  
+  The Windows Python interpreter can be downloaded for free from the Python website. 
+  Make sure to download the correct version for your operating system.
+  
+  You should download the latest version available, which was 3.4 at the time of this writing.
+  
+  OS X and Linux come with Python already installed. You will not need to install any Python-related software, 
+  but you may want to install a text editor. Most Linux distributions and OS X versions still use Python 2.X. 
+  There are a few minor differences between 2 & 3, most notably the changes to the "print" statement. 
+  If you want to install a newer version of Python on OS X or Linux, you can download the files from the Python website.
+  
+2 Install the Python interpreter. 
 
-Simply download the Python installer and follow the instructions. 
-Make sure to remember the directory you used to install Python. 
-You may need this information at the top of each of your Python scripts depending on 
-what type of environment you are using to execute the scripts.
+  Most users can install the interpreter without changing any settings. 
+  You can integrate Python into the Command Prompt by enabling the last option in the list of available modules.
+  
+3 Install a text editor. 
 
+  While you can create Python programs in Notepad or TextEdit, 
+  you will find it much eazsier to read and write the code using a specialized text editor. 
+  There are a variety of free editors to choose from such as Notepad++ (Windows), TextWrangler (Mac), 
+  or JEdit (Any system).  
+  
+4 Test your installation. 
 
-Steps to execute scripts.
-
-1. Launch command prompt from windows.
-2. Run your code and you'll be put into the Python debugger, where you can use sEnter to step through the code.
-
+  Open Command Prompt (Windows) of your Terminal (Mac/Linux) and type python. 
+  Python will load and the version number will be displayed. You will be taken to the Python interpreter command prompt, 
+  shown as >>>. Type print("Hello, World!") and press ⌅ Enter. You should see the text Hello, World! 
+  displayed beneath the Python command line.  
 
