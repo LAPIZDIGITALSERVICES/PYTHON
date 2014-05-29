@@ -3,40 +3,37 @@ PYTHON
 
 Installing Python (Windows)
 
-1 Download Python for Windows systems. 
-  
-  The Windows Python interpreter can be downloaded for free from the Python website. 
-  Make sure to download the correct version for your operating system.
-  
-  You should download the latest version available, which was 3.4 at the time of this writing.
-  
-  OS X and Linux come with Python already installed. You will not need to install any Python-related software, 
-  but you may want to install a text editor. Most Linux distributions and OS X versions still use Python 2.X. 
-  There are a few minor differences between 2 & 3, most notably the changes to the "print" statement. 
-  If you want to install a newer version of Python on OS X or Linux, you can download the files from the Python website.
-  
-2 Install the Python interpreter. 
+1. Download Python for Windows systems. 
 
-  Most users can install the interpreter without changing any settings. 
-  You can integrate Python into the Command Prompt by enabling the last option in the list of available modules.
+	The Windows Python interpreter can be downloaded for free from the Python website. 
+	Make sure to download the correct version for your operating system.
+	You should download the latest version available, which was 3.4 at the time of this writing.
+	OS X and Linux come with Python already installed. You will not need to install any Python-related software, 
+	but you may want to install a text editor. Most Linux distributions and OS X versions still use Python 2.X. 
+	There are a few minor differences between 2 & 3, most notably the changes to the "print" statement. 
+	If you want to install a newer version of Python on OS X or Linux, you can download the files from the Python website.
+  
+2. Install the Python interpreter. 
+	
+	Most users can install the interpreter without changing any settings. 
+	You can integrate Python into the Command Prompt by enabling the last option in the list of available modules.
   
 3 Install a text editor. 
-
-  While you can create Python programs in Notepad or TextEdit, 
-  you will find it much eazsier to read and write the code using a specialized text editor. 
-  There are a variety of free editors to choose from such as Notepad++ (Windows), TextWrangler (Mac), 
-  or JEdit (Any system).  
+	
+	While you can create Python programs in Notepad or TextEdit, 
+	you will find it much eazsier to read and write the code using a specialized text editor. 
+	There are a variety of free editors to choose from such as Notepad++ (Windows), TextWrangler (Mac), or JEdit (Any system).  
   
 4 Test your installation. 
 
-  Open Command Prompt (Windows) of your Terminal (Mac/Linux) and type python. 
-  Python will load and the version number will be displayed. You will be taken to the Python interpreter command prompt, 
-  shown as >>>. Type print("Hello, World!") and press ⌅ Enter. You should see the text Hello, World! 
-  displayed beneath the Python command line.  
+	Open Command Prompt (Windows) of your Terminal (Mac/Linux) and type python. 
+	Python will load and the version number will be displayed. You will be taken to the Python interpreter command prompt, 
+	shown as >>>. Type print("Hello, World!") and press ⌅ Enter. You should see the text Hello, World! 
+	displayed beneath the Python command line.  
 
 5 Run the program. 
-
-  Open your Command Prompt or Terminal and navigate to the location where you saved your file. 
-  Once you are there, run the file by typing hello.py and pressing ⌅ Enter. 
-  You should see the text Hello, World! displayed beneath the command prompt.
-  Depending on how you installed Python, you may need to type python hello.py to run the program.
+	
+	Open your Command Prompt or Terminal and navigate to the location where you saved your file. 
+	Once you are there, run the file by typing hello.py and pressing ⌅ Enter. 
+	You should see the text Hello, World! displayed beneath the command prompt.
+	Depending on how you installed Python, you may need to type python hello.py to run the program.
